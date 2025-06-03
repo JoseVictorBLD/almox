@@ -18,7 +18,7 @@ O objetivo é facilitar o gerenciamento de pessoas, produtos, entradas e saídas
 - Eduardo Henrique Tresmann
 - Cristiano Cardozo Lopes
 - Kaique Caldas Gotardo
-- José Victor B.L. Domingues
+- José Victor B.L. Domingues.
 
 ---
 
