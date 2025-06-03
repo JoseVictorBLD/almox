@@ -171,4 +171,4 @@ Basta abrir um **Pull Request** ou registrar uma **Issue** neste repositório.
 
 ## ⭐ Licença
 
-Este projeto é open-source sob a licença MIT.
+Este projeto é open-source sob a licença MIT..
